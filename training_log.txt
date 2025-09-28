@@ -1,0 +1,13 @@
+Epoch 1/10 - Loss: 0.1869, Val Acc: 93.75%
+Epoch 2/10 - Loss: 0.1264, Val Acc: 62.50%
+Epoch 3/10 - Loss: 0.1071, Val Acc: 100.00%
+Epoch 4/10 - Loss: 0.0845, Val Acc: 100.00%
+Epoch 5/10 - Loss: 0.0732, Val Acc: 100.00%
+Epoch 6/10 - Loss: 0.0616, Val Acc: 87.50%
+Epoch 7/10 - Loss: 0.0627, Val Acc: 100.00%
+Epoch 8/10 - Loss: 0.0613, Val Acc: 93.75%
+Epoch 9/10 - Loss: 0.0544, Val Acc: 93.75%
+Epoch 10/10 - Loss: 0.0513, Val Acc: 100.00%
+Test Accuracy: 81.25%
+
+Learning Rate = 0.002
